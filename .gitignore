@@ -1,0 +1,7 @@
+/pubspec.lock
+/build/
+/.idea/
+/.dart_tool/
+/hello_flutter_app.iml
+/.packages
+/android/hello_flutter_app_android.iml
